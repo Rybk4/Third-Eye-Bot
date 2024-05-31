@@ -5,7 +5,7 @@ from scripts.detect_obj import detect_objects_f
 import sys
 from scripts.train_model import train_model_f
 
-bot = telebot.TeleBot("7004267007:AAEIDSYUXOjV1O8Oib93nH90l5l91ccNJ5U")
+bot = telebot.TeleBot("token")
 
 data_dir = "asd"
 
